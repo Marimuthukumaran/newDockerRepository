@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.jenkinsample</groupId>
-  <artifactId>docker-jenkin-integration-sample</artifactId>
+  <groupId>com.imagepackage</groupId>
+  <artifactId>basimimage</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>docker-jenkin-integration-sample</name>
-  <description>docker-jenkin-integration-sample</description>
+  <name>basimimage</name>
+  <description>basimimage</description>
 </project>
